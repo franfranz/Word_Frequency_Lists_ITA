@@ -1,4 +1,4 @@
-# Word_frequency_Lists_ITA
+# Word_frequency_Lists_IT
 Handy frequency lists in Italian calculated from the corpus ItWac (Baroni, M., Bernardini, S., Ferraresi, A., & Zanchetta, E., 2009).
 
 ## Contents: 
