@@ -22,20 +22,17 @@ codewd=("path")
 #codewd=("path")
 
 # input directory
-wd_in=("D:\\dfranzon\\Corpora and Databases\\ItWac_Lists\\ItWaC_verbs")
-#wd_in=("path")
+wd_in=("path")
 
 # output directory 
 # for processed files
-wd_out=("D:\\dfranzon\\Corpora and Databases\\ItWac_Lists\\ItWaC_verbs\\verbs_out")
-#wd_out=("path")
+wd_out=("path")
 
 
 # for final list of nouns
 setwd(wd_out)
 dir.create("Final_List")
 wd_list=paste(wd_out, "\\Final_List", sep="")
-"D:\\dfranzon\\Corpora and Databases\\ItWac_Lists\\ItWaC_verbs\\verbs_out\\Final_List"==wd_list
 
 #
 #   1 - Process files 
