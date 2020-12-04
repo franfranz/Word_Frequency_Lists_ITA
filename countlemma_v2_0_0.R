@@ -4,7 +4,7 @@
 #
 #     Ver 2.0.0 
 #
-#     01-12-2020    ffranzon@sissa.it
+#     https://franfranz.github.io/
 #
 ### 
 
@@ -53,7 +53,7 @@ for(myfile in file.names){
   #get letter from file name
   thename=tools::file_path_sans_ext(myfile)
   
-  # choose how to 
+  # choose how to import
   #nouns= read.table(myfile, header=F, sep="\t", encoding = "UTF-8", na.strings = "")
   nouns=read.delim(myfile, header=F, sep="\t", encoding = "UTF-8", na.strings = "")
   # set headers
