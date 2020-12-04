@@ -3,13 +3,13 @@ Handy frequency lists in Italian calculated from the corpus ItWac (Baroni, M., B
 
 ## Contents: 
 ### Lists
-* **"itwac_nouns_lemmas_notail_2_0_0.csv"** List of word form tagged as nouns. 
+* [itwac_nouns_lemmas_notail_2_0_0.csv](https://github.com/franfranz/Word_Frequency_Lists_ITA/blob/main/itwac_nouns_lemmas_notail_2_0_0.csv) List of word form tagged as nouns. 
   Contains: wordform, lemma, POS, frequency (raw), frequency per million words (fpmw), frequency (zipf). Calculated using countlemma_v2.0.0
   
-* **"itwac_verbs_lemmas_notail_2_1_0.csv"** List of word form tagged as verbs. 
+* [itwac_verbs_lemmas_notail_2_1_0.csv](https://github.com/franfranz/Word_Frequency_Lists_ITA/blob/main/itwac_verbs_lemmas_notail_2_1_0.csv) List of word form tagged as verbs. 
   Contains: wordform, lemma, POS, modality, POS2 (ideally, functional verbs), frequency (raw), frequency per million words (fpmw), frequency (zipf).  Calculated using countlemma_verb_2_1_0.
   
-* **"itwac_verbs_list_of_lemmas_2_1_0.csv"** List of lemmas from most to least represented across wordforms.
+* [itwac_verbs_list_of_lemmas_2_1_0.csv](https://github.com/franfranz/Word_Frequency_Lists_ITA/blob/main/itwac_verbs_list_of_lemmas_2_1_0.csv) List of lemmas from most to least represented across wordforms.
   
   
 ### Code  
@@ -19,3 +19,4 @@ Handy frequency lists in Italian calculated from the corpus ItWac (Baroni, M., B
 * **"countlemma_verb_2_1_0.R"** Code used to provide a frequency list of all the VERB forms present in Itwac, tagged for POS, lemma, modality. 
     
     
+[link to Google!](http://google.com)
