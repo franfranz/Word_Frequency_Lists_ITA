@@ -4,7 +4,7 @@
 #
 #     Countlemma VERBS     
 #
-#     Ver 2.1.0       https://github.com/franfranz/Word_Frequency_Lists_ITA/blob/main/countlemma_verb_2_1_0.R
+#     Ver 2.1.0       github.com/franfranz/Word_Frequency_Lists_ITA
 #
 ### 
 
