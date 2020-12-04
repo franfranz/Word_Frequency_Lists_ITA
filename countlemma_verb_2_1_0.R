@@ -4,7 +4,7 @@
 #
 #     Countlemma VERBS     
 #
-#     Ver 2.1.0       03-12-2020    ffranzon@sissa.it
+#     Ver 2.1.0       https://franfranz.github.io/
 #
 ### 
 
