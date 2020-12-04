@@ -4,7 +4,7 @@
 #
 #     Ver 2.0.0 
 #
-#     https://franfranz.github.io/
+#     github.com/franfranz/Word_Frequency_Lists_ITA 
 #
 ### 
 
