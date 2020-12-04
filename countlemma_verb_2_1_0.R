@@ -1,10 +1,10 @@
-###
+###   
 #
 #     C O U N T   W O R D   O C C U R R E N C E S  in ItWaC lists
 #
 #     Countlemma VERBS     
 #
-#     Ver 2.1.0       https://franfranz.github.io/
+#     Ver 2.1.0       https://github.com/franfranz/Word_Frequency_Lists_ITA/blob/main/countlemma_verb_2_1_0.R
 #
 ### 
 
