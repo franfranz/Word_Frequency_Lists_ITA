@@ -13,10 +13,9 @@ Handy frequency lists in Italian calculated from the corpus ItWac (Baroni, M., B
   
   
 ### Code  
-* **"countlemma_v2.0.0.R"** Code used to provide a frequency list of all the NOUN forms present in Itwac, tagged for POS and lemma. 
+* [countlemma_v2.0.0.R](https://github.com/franfranz/Word_Frequency_Lists_ITA/blob/main/countlemma_v2_0_0.R) Code used to provide a frequency list of all the NOUN forms present in Itwac, tagged for POS and lemma. 
     This version is less time consuming in handling big files if compared to v_1. 
     
-* **"countlemma_verb_2_1_0.R"** Code used to provide a frequency list of all the VERB forms present in Itwac, tagged for POS, lemma, modality. 
-    
-    
-[link to Google!](http://google.com)
+* [countlemma_verb_2_1_0.R](https://github.com/franfranz/Word_Frequency_Lists_ITA/blob/main/countlemma_verb_2_1_0.R) Code used to provide a frequency list of all the VERB forms present in Itwac, tagged for POS, lemma, modality. 
+ 
+ 
