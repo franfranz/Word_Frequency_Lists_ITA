@@ -17,6 +17,11 @@ Handy frequency lists in Italian calculated from the corpus ItWac (Baroni, M., B
 * [itwac_verbs_list_of_lemmas_2_1_0.csv](https://github.com/franfranz/Word_Frequency_Lists_ITA/blob/main/itwac_verbs_list_of_lemmas_2_1_0.csv) List of lemmas from most to least represented across lexical VERB wordforms. Encoding: utf-8. Calculated using countlemma_verb_2_1_0.
   
 **ADJECTIVES**
+* [itwac_adj_lemmas_notail_2_1_0.csv](https://github.com/franfranz/Word_Frequency_Lists_ITA/blob/main/itwac_adj_lemmas_notail_2_1_0.csv) List of word forms tagged as ADJ. The minimum token frequency in this list is 3. 
+  Contains: wordform, lemma, POS, frequency (raw), frequency per million words (fpmw), frequency (zipf). Encoding: utf-8. Calculated using countlemmaADJ
+
+* [itwac_adj_lemmas_raw_2_1_0.zip](https://github.com/franfranz/Word_Frequency_Lists_ITA/blob/main/itwac_adj_lemmas_raw_2_1_0.zip) List of word forms tagged as ADJ. The minimum token frequency in this list is 1. 
+  Contains: wordform, lemma, POS, frequency (raw), frequency per million words (fpmw), frequency (zipf). Encoding: utf-8. Calculated using countlemmaADJ
 
 
 ### [Code](https://github.com/franfranz/Word_Frequency_Lists_ITA/tree/main/Code)  
