@@ -2,7 +2,7 @@
 Handy frequency lists in Italian calculated from the corpus ItWac (Baroni, M., Bernardini, S., Ferraresi, A., & Zanchetta, E., 2009).
 
 ## Contents: 
-### Lists
+### [Lists](https://github.com/franfranz/Word_Frequency_Lists_ITA)
 **NOUNS** 
 * [itwac_nouns_lemmas_notail_2_0_0.csv](https://github.com/franfranz/Word_Frequency_Lists_ITA/blob/main/itwac_nouns_lemmas_notail_2_0_0.csv) List of word forms tagged as NOUNS. The minimum token frequency in this list is 3. 
   Contains: wordform, lemma, POS, frequency (raw), frequency per million words (fpmw), frequency (zipf). Encoding: utf-8. Calculated using countlemma_v2.0.0
