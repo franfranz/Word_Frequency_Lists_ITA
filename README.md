@@ -1,5 +1,5 @@
 # Word_frequency_Lists_ITA
-Handy frequency lists in Italian calculated from the corpus ItWac (Baroni, M., Bernardini, S., Ferraresi, A., & Zanchetta, E., 2009).
+Handy frequency lists for Italian lexical words calculated from the corpus ItWac (Baroni, M., Bernardini, S., Ferraresi, A., & Zanchetta, E., 2009).
 
 ## Contents: 
 ### [Lists](https://github.com/franfranz/Word_Frequency_Lists_ITA)
