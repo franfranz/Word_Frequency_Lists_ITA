@@ -19,7 +19,7 @@ Handy frequency lists in Italian calculated from the corpus ItWac (Baroni, M., B
 **ADJECTIVES**
 
 
-### Code  
+### [Code](https://github.com/franfranz/Word_Frequency_Lists_ITA/tree/main/Code)  
 * [countlemma_v2.0.0.R](https://github.com/franfranz/Word_Frequency_Lists_ITA/blob/main/countlemma_v2_0_0.R) Code used to provide a frequency list of all the NOUN forms present in Itwac, tagged for POS and lemma. 
     This version is less time consuming in handling big files if compared to v_1. 
     
